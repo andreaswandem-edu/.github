@@ -14,7 +14,7 @@ This organization includes completed exam and assignments from my univeristy stu
 ##### First Semester
 - PGR102 - Introduksjon til programmering, Eksamen h2024 - [Bestått]
 - DB1102 - Databaser, Eksamen h2024 - [Bestått]
-- TK1104 - Digital Teknologi, Eksamen h2024 - [Bestått]
+- [TK1104 - Digital Teknologi, Eksamen h2024](https://github.com/andreaswandem-edu/TK1104-Eksamen-h2024) - [Bestått]
 - PRO105 - Kreativt webprosjekt, Eksamen h2024 - [Bestått]
 
 ##### Second Semester
