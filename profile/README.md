@@ -5,7 +5,7 @@
 
 ---
 
-This organization includes completed exam and assignments from my univeristy studies at [@Kristiania](https://github.com/kristiania), as well as other courses i completed. Content and documentation are primarily in Norwegian.
+This organization includes completed exam and assignments from my university studies at [@Kristiania](https://github.com/kristiania), as well as other courses i completed. Content and documentation are primarily in Norwegian.
 
 ---
 
