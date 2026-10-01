@@ -23,13 +23,15 @@ All contents in the repositories are in Norwegian.
 - [ESB1100 - Etikk, samfunnsansvar og bærekraft](https://github.com/andreaswandem-edu/ESB1100_Etikk-samfunnsansvar-og-baerekraft_eksamen_v2025) (Karakter: A)
 
 ##### 3.semester (høsten 2025)
-- DS3103 Webutvikling - (Karakter: A)
+- DS3103 - Webutvikling - (Karakter: A)
 - [DS3302 - Interaksjonsdesign](https://github.com/andreaswandem-edu/DS3302_Interaksjonsdesign_eksamen_h2025) (Karakter: A)
-- PGR208 Android programmering - (Karakter: B)
+- PGR208 - Android programmering - (Karakter: B)
 
 ##### 4.semester (våren 2026)
 - [Utveksling ved SolBridge International School of Business](https://github.com/andreaswandem-edu/utveksling) (Innpasset: 30 studiepoeng)
 
 ##### 5.semester (høsten 2026)
-
+- TDS200 - Kryssplattoform (Pågående)
+- PG5602 - iOS programmering (Pågående)
+- PRO203 - Smidig prosjekt (Pågående)
 
