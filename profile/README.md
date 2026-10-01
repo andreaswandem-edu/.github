@@ -3,14 +3,16 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andreas-bernhard-wandem-9b7a76375/)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/andreaswandem)
 
-Denne "organisasjonen" inneholder fullførte eksamener og arbeidskrav jeg har gjort i løpet av bachelorgraden i IT - frontend- og mobilutvikling hos [@Kristiania](https://github.com/kristiania). 
+This GitHub "organization" contains exams and coursework I have completed during my bachelor's degree in IT - Frontend- and Mobile Development at @Kristiania.
+
+All contents in the repositories are in Norwegian.
 
 ---
 
 #### Høyskolen Kristiania Oslo - Informasjonsteknologi - frontend- og mobilutvikling
 
 ##### 1.semester
-- [PGR102 - Introduksjon til programmering](https://github.com/andreaswandem-edu/PGR102_Introduksjon-til-programmering_h2024) (Bestått) (Kommer)
+- [PGR102 - Introduksjon til programmering](https://github.com/andreaswandem-edu/PGR102_Introduksjon-til-programmering_h2024) (Bestått)
 - [DB1102 - Databaser](https://github.com/andreaswandem-edu/DB1102_Databaser_h2024) (Bestått)
 - [TK1104 - Digital teknologi](https://github.com/andreaswandem-edu/TK1104_Digital-teknologi_h2024/tree/main) (Bestått 86 / 90)
 - [PRO105 - Kreativt webprosjekt](https://github.com/andreaswandem-edu/PRO105_kreativt-webprosjekt_h2024) (Bestått)
