@@ -18,7 +18,7 @@ Denne "organisasjonen" inneholder fullførte eksamener og arbeidskrav jeg har gj
 ##### 2.semester
 - PGR112 - Objektorientert programmering, Eksamen v2025 - (Bestått) (Kommer)
 - TK2100 - Informasjonssikkerhet, Eksamen v2025 - (Bestått) (Kommer)
-- ESB1100 - Etikk, samfunnsansvar og bærekraft, Eksamen v2025 (Karakter: A) (Kommer)
+- [ESB1100 - Etikk, samfunnsansvar og bærekraft](https://github.com/andreaswandem-edu/ESB1100_Etikk-samfunnsansvar-og-baerekraft_eksamen_v2025) (Karakter: A)
 
 ##### 3.semester
 - DS3103 Webutvikling - (Karakter: A) (Kommer)
