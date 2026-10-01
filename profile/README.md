@@ -11,26 +11,25 @@ All contents in the repositories are in Norwegian.
 
 #### Høyskolen Kristiania Oslo - Informasjonsteknologi - frontend- og mobilutvikling
 
-##### 1.semester
+##### 1.semester (høsten 2024)
 - [PGR102 - Introduksjon til programmering](https://github.com/andreaswandem-edu/PGR102_Introduksjon-til-programmering_h2024) (Bestått)
 - [DB1102 - Databaser](https://github.com/andreaswandem-edu/DB1102_Databaser_h2024) (Bestått)
 - [TK1104 - Digital teknologi](https://github.com/andreaswandem-edu/TK1104_Digital-teknologi_h2024/tree/main) (Bestått 86 / 90)
 - [PRO105 - Kreativt webprosjekt](https://github.com/andreaswandem-edu/PRO105_kreativt-webprosjekt_h2024) (Bestått)
 
-##### 2.semester
+##### 2.semester (våren 2025)
 - PGR112 - Objektorientert programmering, Eksamen v2025 - (Bestått) (Kommer)
 - TK2100 - Informasjonssikkerhet, Eksamen v2025 - (Bestått) (Kommer)
 - [ESB1100 - Etikk, samfunnsansvar og bærekraft](https://github.com/andreaswandem-edu/ESB1100_Etikk-samfunnsansvar-og-baerekraft_eksamen_v2025) (Karakter: A)
 
-##### 3.semester
+##### 3.semester (høsten 2025)
 - DS3103 Webutvikling - (Karakter: A) (Kommer)
 - [DS3302 - Interaksjonsdesign](https://github.com/andreaswandem-edu/DS3302_Interaksjonsdesign_eksamen_h2025) (Karakter: A)
 - PGR208 Android programmering - (Karakter: B) (Kommer)
 
-##### 4.semester
+##### 4.semester (våren 2026)
 - Utveksling
 
-##### 5.semester
-- Underveis
+##### 5.semester (høsten 2026)
 
 
