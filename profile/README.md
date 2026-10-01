@@ -13,6 +13,7 @@ Denne "organisasjonen" inneholder fullførte eksamener og arbeidskrav jeg har gj
 - PGR102 - Introduksjon til programmering, Eksamen h2024 - (Bestått) (Kommer)
 - DB1102 - Databaser, Eksamen h2024 - (Bestått) (Kommer)
 - TK1104 - Digital Teknologi, Eksamen h2024 - (Bestått) (Kommer)
+- [PRO105 - Kreativt webprosjekt](https://github.com/andreaswandem-edu/PRO105_kreativt-webprosjekt_h2024)
 - PRO105 - Kreativt webprosjekt, Eksamen h2024 - (Bestått) (Kommer)
 
 ##### 2.semester
@@ -22,7 +23,7 @@ Denne "organisasjonen" inneholder fullførte eksamener og arbeidskrav jeg har gj
 
 ##### 3.semester
 - DS3103 Webutvikling - (Karakter: A) (Kommer)
-- [DS3302 Interaksjonsdesign](https://github.com/andreaswandem-edu/DS3302_Interaksjonsdesign_eksamen_h2025) (Karakter: A)
+- [DS3302 - Interaksjonsdesign](https://github.com/andreaswandem-edu/DS3302_Interaksjonsdesign_eksamen_h2025) (Karakter: A)
 - PGR208 Android programmering - (Karakter: B) (Kommer)
 
 ##### 4.semester
