@@ -18,17 +18,17 @@ All contents in the repositories are in Norwegian.
 - [PRO105 - Kreativt webprosjekt](https://github.com/andreaswandem-edu/PRO105_kreativt-webprosjekt_h2024) (Karakter: Bestått)
 
 ##### 2.semester (våren 2025)
-- PGR112 - Objektorientert programmering, Eksamen v2025 - (Kommer)
+- PGR112 - Objektorientert programmering, Eksamen v2025
 - [TK2100 - Informasjonssikkerhet](https://github.com/andreaswandem-edu/TK2100_Informasjonssikkerhet_v2025) (Karakter: Bestått)
 - [ESB1100 - Etikk, samfunnsansvar og bærekraft](https://github.com/andreaswandem-edu/ESB1100_Etikk-samfunnsansvar-og-baerekraft_eksamen_v2025) (Karakter: A)
 
 ##### 3.semester (høsten 2025)
-- DS3103 Webutvikling - (Karakter: A) (Kommer)
+- DS3103 Webutvikling - (Karakter: A)
 - [DS3302 - Interaksjonsdesign](https://github.com/andreaswandem-edu/DS3302_Interaksjonsdesign_eksamen_h2025) (Karakter: A)
-- PGR208 Android programmering - (Karakter: B) (Kommer)
+- PGR208 Android programmering - (Karakter: B)
 
 ##### 4.semester (våren 2026)
-- [Utveksling ved SolBridge International School of Business](https://github.com/andreaswandem-edu/utveksling)
+- [Utveksling ved SolBridge International School of Business](https://github.com/andreaswandem-edu/utveksling) (Innpasset: 30 studiepoeng)
 
 ##### 5.semester (høsten 2026)
 
