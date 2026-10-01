@@ -22,7 +22,7 @@ Denne "organisasjonen" inneholder fullførte eksamener og arbeidskrav jeg har gj
 
 ##### 3.semester
 - DS3103 Webutvikling - (Karakter: A) (Kommer)
-- DS3302 Interaksjonsdesign - (Karakter: A) (Kommer)
+- [DS3302 Interaksjonsdesign](https://github.com/andreaswandem-edu/DS3302_Interaksjonsdesign_eksamen_h2025) (Karakter A)
 - PGR208 Android programmering - (Karakter: B) (Kommer)
 
 ##### 4.semester
