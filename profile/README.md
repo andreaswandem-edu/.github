@@ -19,7 +19,7 @@ All contents in the repositories are in Norwegian.
 
 ##### 2.semester (våren 2025)
 - PGR112 - Objektorientert programmering, Eksamen v2025 - (Bestått) (Kommer)
-- TK2100 - Informasjonssikkerhet, Eksamen v2025 - (Bestått) (Kommer)
+- [TK2100 - Informasjonssikkerhet](https://github.com/andreaswandem-edu/TK2100_Informasjonssikkerhet_v2025) (Bestått)
 - [ESB1100 - Etikk, samfunnsansvar og bærekraft](https://github.com/andreaswandem-edu/ESB1100_Etikk-samfunnsansvar-og-baerekraft_eksamen_v2025) (Karakter: A)
 
 ##### 3.semester (høsten 2025)
