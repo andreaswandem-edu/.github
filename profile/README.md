@@ -14,7 +14,6 @@ Denne "organisasjonen" inneholder fullførte eksamener og arbeidskrav jeg har gj
 - DB1102 - Databaser, Eksamen h2024 - (Bestått) (Kommer)
 - [TK1104 - Digital Teknologi](https://github.com/andreaswandem-edu/TK1104_Digital-teknologi_h2024/tree/main) (Bestått 86 / 90)
 - [PRO105 - Kreativt webprosjekt](https://github.com/andreaswandem-edu/PRO105_kreativt-webprosjekt_h2024) (Bestått)
-- PRO105 - Kreativt webprosjekt, Eksamen h2024 - (Bestått) (Kommer)
 
 ##### 2.semester
 - PGR112 - Objektorientert programmering, Eksamen v2025 - (Bestått) (Kommer)
